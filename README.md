@@ -18,10 +18,11 @@ Configuration
 
 - Fields information:
     * Client_id, Password => talk to integralCES(1) for Client Registration Script
-(1) http://www.integralces.net/contact
-    * Temp => integralCES API v0 will write there temp files file procesing payments.
-    * API_url => http://drupalcode.org/integralCES/XXXXX.git/tree/9x9x9x9x9
+    * Temp => *integralCES API v0* will write there temp files file procesing payments.    
+    * API_url => http://drupalcode.org/integralCES/XXXXX.git/tree/9x9x9x9x9    
     * API_url_sandbox => http://drupalcode.org/sandbox/esteve/1367140.git/tree/3a41dcb
+
+(1) http://www.integralces.net/contact
     
 
 Version
