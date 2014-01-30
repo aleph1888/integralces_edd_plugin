@@ -7,10 +7,15 @@ EasyDigitalDownloads integralCES gateway (100% compatible with Campaignify)
 Workflow
 ----
 From *COOP number* posting on wordpress action *edd_integralCES_gateway_cc_form*(1), integralCES API v0(2) through openTransact(3)(a) to charge payment. 
+
 (1) http://pippinsplugins.com/create-custom-payment-gateway-for-easy-digital-downloads/
+
 (2) http://www.integralces.net/doc/developer
+
 (3) http://www.opentransact.org/usecases.html
+
 (a) OpenTransact aims to create the equivalent of the HTTP standard for financial transactions. It is based on established well known HTTP, REST and OAUTH standards. You can use the same standard and implementation code to handle everything from currency payments to loan issuance and stock trades. 
+
 
 Agents
 -----
