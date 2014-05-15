@@ -1,7 +1,7 @@
 integralCES_edd_plugin
 ==================
 
-EasyDigitalDownloads integralCES gateway (100% compatible with Campaignify)
+EasyDigitalDownloads integralCES gateway (97% compatible with Campaignify)
 
 
 Workflow
