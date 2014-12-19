@@ -46,12 +46,3 @@ Dependencies
 [Wiki](https://wiki.enredaos.net/index.php?title=COOPFUND-DEV#INTEGRALCES)
 
 
-License
-----
-
-?
-
-
-**Free Software, Hell Yeah!**
-@BTC 1DNxbBeExzv7JvXgL6Up5BSUvuY4gE8q4A
-
